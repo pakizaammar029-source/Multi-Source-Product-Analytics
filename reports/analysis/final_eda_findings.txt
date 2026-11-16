@@ -1,0 +1,26 @@
+MULTI-SOURCE E-COMMERCE PRODUCT ANALYTICS
+FINAL EDA AND DATA QUALITY REPORT
+=======================================================
+
+Total cleaned records: 239
+
+SOURCE DISTRIBUTION
+data_source
+DummyJSON            194
+Open Beauty Facts     45
+
+DATA VALIDATION RESULTS
+Missing product names: 0
+Missing product IDs: 0
+Missing data sources: 0
+Duplicate source + product IDs: 0
+Negative prices: 0
+Invalid ratings: 0
+Invalid discounts: 0
+
+ANALYTICAL FINDINGS
+1. Price distribution is right-skewed: the mean exceeds the median. The median may better represent a typical product price.
+2. Price-rating correlation is -0.131. This measures linear association, not causation.
+3. Price IQR analysis flags 30 potential outliers. These should be investigated, not automatically deleted.
+4. Open Beauty Facts does not provide the same price, rating and discount coverage as DummyJSON. Cross-source comparisons for these metrics are therefore not valid.
+5. Missing values are not automatically data errors. Some fields are not supplied by the original data source.

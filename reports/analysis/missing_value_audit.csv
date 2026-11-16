@@ -1,0 +1,10 @@
+Column,Missing_Count,Missing_Percentage
+product_id,0,0.0
+product_name,0,0.0
+brand,101,42.26
+category,2,0.84
+price,45,18.83
+rating,45,18.83
+discount_percentage,45,18.83
+ingredients,218,91.21
+data_source,0,0.0

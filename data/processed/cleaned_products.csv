@@ -1,0 +1,242 @@
+product_id,product_name,brand,category,price,rating,discount_percentage,ingredients,data_source
+1,Essence Mascara Lash Princess,Essence,beauty,9.99,2.56,10.48,,DummyJSON
+2,Eyeshadow Palette with Mirror,Glamour Beauty,beauty,19.99,2.86,18.19,,DummyJSON
+3,Powder Canister,Velvet Touch,beauty,14.99,4.64,9.84,,DummyJSON
+4,Red Lipstick,Chic Cosmetics,beauty,12.99,4.36,12.16,,DummyJSON
+5,Red Nail Polish,Nail Couture,beauty,8.99,4.32,11.44,,DummyJSON
+6,Calvin Klein CK One,Calvin Klein,fragrances,49.99,4.37,1.89,,DummyJSON
+7,Chanel Coco Noir Eau De,Chanel,fragrances,129.99,4.26,16.51,,DummyJSON
+8,Dior J'adore,Dior,fragrances,89.99,3.8,14.72,,DummyJSON
+9,Dolce Shine Eau de,Dolce & Gabbana,fragrances,69.99,3.96,0.62,,DummyJSON
+10,Gucci Bloom Eau de,Gucci,fragrances,79.99,2.74,14.39,,DummyJSON
+11,Annibale Colombo Bed,Annibale Colombo,furniture,1899.99,4.77,8.57,,DummyJSON
+12,Annibale Colombo Sofa,Annibale Colombo,furniture,2499.99,3.92,14.4,,DummyJSON
+13,Bedside Table African Cherry,Furniture Co.,furniture,299.99,2.87,19.09,,DummyJSON
+14,Knoll Saarinen Executive Conference Chair,Knoll,furniture,499.99,4.88,2.01,,DummyJSON
+15,Wooden Bathroom Sink With Mirror,Bath Trends,furniture,799.99,3.59,8.8,,DummyJSON
+16,Apple,,groceries,1.99,4.19,12.62,,DummyJSON
+17,Beef Steak,,groceries,12.99,4.47,9.61,,DummyJSON
+18,Cat Food,,groceries,8.99,3.13,9.58,,DummyJSON
+19,Chicken Meat,,groceries,9.99,3.19,13.7,,DummyJSON
+20,Cooking Oil,,groceries,4.99,4.8,9.33,,DummyJSON
+21,Cucumber,,groceries,1.49,4.07,0.16,,DummyJSON
+22,Dog Food,,groceries,10.99,4.55,10.27,,DummyJSON
+23,Eggs,,groceries,2.99,2.53,11.05,,DummyJSON
+24,Fish Steak,,groceries,14.99,3.78,4.23,,DummyJSON
+25,Green Bell Pepper,,groceries,1.29,3.25,0.16,,DummyJSON
+26,Green Chili Pepper,,groceries,0.99,3.66,1.0,,DummyJSON
+27,Honey Jar,,groceries,6.99,3.97,14.4,,DummyJSON
+28,Ice Cream,,groceries,5.49,3.39,8.69,,DummyJSON
+29,Juice,,groceries,3.99,3.94,12.06,,DummyJSON
+30,Kiwi,,groceries,2.49,4.93,15.22,,DummyJSON
+31,Lemon,,groceries,0.79,3.53,9.7,,DummyJSON
+32,Milk,,groceries,3.49,2.61,13.74,,DummyJSON
+33,Mulberry,,groceries,4.99,4.95,12.87,,DummyJSON
+34,Nescafe Coffee,,groceries,7.99,4.82,1.59,,DummyJSON
+35,Potatoes,,groceries,2.29,4.81,5.38,,DummyJSON
+36,Protein Powder,,groceries,19.99,4.18,7.59,,DummyJSON
+37,Red Onions,,groceries,1.99,4.2,9.9,,DummyJSON
+38,Rice,,groceries,5.99,3.18,9.29,,DummyJSON
+39,Soft Drinks,,groceries,1.99,4.75,17.48,,DummyJSON
+40,Strawberry,,groceries,3.99,3.08,1.12,,DummyJSON
+41,Tissue Paper Box,,groceries,2.49,2.69,13.28,,DummyJSON
+42,Water,,groceries,0.99,4.96,14.92,,DummyJSON
+43,Decoration Swing,,home-decoration,59.99,3.16,10.41,,DummyJSON
+44,Family Tree Photo Frame,,home-decoration,29.99,4.53,14.87,,DummyJSON
+45,House Showpiece Plant,,home-decoration,39.99,4.67,7.46,,DummyJSON
+46,Plant Pot,,home-decoration,14.99,3.01,6.84,,DummyJSON
+47,Table Lamp,,home-decoration,49.99,3.55,7.09,,DummyJSON
+48,Bamboo Spatula,,kitchen-accessories,7.99,3.27,2.84,,DummyJSON
+49,Black Aluminium Cup,,kitchen-accessories,5.99,4.46,15.65,,DummyJSON
+50,Black Whisk,,kitchen-accessories,9.99,3.9,10.24,,DummyJSON
+51,Boxed Blender,,kitchen-accessories,39.99,4.56,7.26,,DummyJSON
+52,Carbon Steel Wok,,kitchen-accessories,29.99,4.05,6.53,,DummyJSON
+53,Chopping Board,,kitchen-accessories,12.99,3.7,8.03,,DummyJSON
+54,Citrus Squeezer Yellow,,kitchen-accessories,8.99,4.63,12.1,,DummyJSON
+55,Egg Slicer,,kitchen-accessories,6.99,3.09,14.76,,DummyJSON
+56,Electric Stove,,kitchen-accessories,49.99,4.11,14.04,,DummyJSON
+57,Fine Mesh Strainer,,kitchen-accessories,9.99,3.04,3.5,,DummyJSON
+58,Fork,,kitchen-accessories,3.99,3.11,8.07,,DummyJSON
+59,Glass,,kitchen-accessories,4.99,4.02,7.92,,DummyJSON
+60,Grater Black,,kitchen-accessories,10.99,3.21,3.56,,DummyJSON
+61,Hand Blender,,kitchen-accessories,34.99,3.86,17.02,,DummyJSON
+62,Ice Cube Tray,,kitchen-accessories,5.99,4.71,0.63,,DummyJSON
+63,Kitchen Sieve,,kitchen-accessories,7.99,3.09,18.91,,DummyJSON
+64,Knife,,kitchen-accessories,14.99,3.26,18.86,,DummyJSON
+65,Lunch Box,,kitchen-accessories,12.99,4.93,10.34,,DummyJSON
+66,Microwave Oven,,kitchen-accessories,89.99,4.82,12.13,,DummyJSON
+67,Mug Tree Stand,,kitchen-accessories,15.99,2.64,9.25,,DummyJSON
+68,Pan,,kitchen-accessories,24.99,2.79,3.0,,DummyJSON
+69,Plate,,kitchen-accessories,3.99,3.65,7.31,,DummyJSON
+70,Red Tongs,,kitchen-accessories,6.99,4.42,14.52,,DummyJSON
+71,Silver Pot With Glass Cap,,kitchen-accessories,39.99,3.22,5.7,,DummyJSON
+72,Slotted Turner,,kitchen-accessories,8.99,3.4,13.35,,DummyJSON
+73,Spice Rack,,kitchen-accessories,19.99,4.87,12.09,,DummyJSON
+74,Spoon,,kitchen-accessories,4.99,4.03,1.53,,DummyJSON
+75,Tray,,kitchen-accessories,16.99,4.62,7.48,,DummyJSON
+76,Wooden Rolling Pin,,kitchen-accessories,11.99,2.92,9.75,,DummyJSON
+77,Yellow Peeler,,kitchen-accessories,5.99,4.24,12.48,,DummyJSON
+78,Apple MacBook Pro 14 Inch Space Grey,Apple,laptops,1999.99,3.65,4.69,,DummyJSON
+79,Asus Zenbook Pro Dual Screen Laptop,Asus,laptops,1799.99,3.95,11.14,,DummyJSON
+80,Huawei Matebook X Pro,Huawei,laptops,1399.99,4.98,9.38,,DummyJSON
+81,Lenovo Yoga 920,Lenovo,laptops,1099.99,2.86,6.55,,DummyJSON
+82,New DELL XPS 13 9300 Laptop,Dell,laptops,1499.99,2.67,11.89,,DummyJSON
+83,Blue & Black Check Shirt,Fashion Trends,mens-shirts,29.99,3.64,15.35,,DummyJSON
+84,Gigabyte Aorus Men Tshirt,Gigabyte,mens-shirts,24.99,3.18,0.94,,DummyJSON
+85,Man Plaid Shirt,Classic Wear,mens-shirts,34.99,3.46,19.5,,DummyJSON
+86,Man Short Sleeve Shirt,Casual Comfort,mens-shirts,19.99,2.9,6.83,,DummyJSON
+87,Men Check Shirt,Urban Chic,mens-shirts,27.99,2.72,11.38,,DummyJSON
+88,Nike Air Jordan 1 Red And Black,Nike,mens-shoes,149.99,4.77,4.12,,DummyJSON
+89,Nike Baseball Cleats,Nike,mens-shoes,79.99,3.88,18.04,,DummyJSON
+90,Puma Future Rider Trainers,Puma,mens-shoes,89.99,4.9,4.2,,DummyJSON
+91,Sports Sneakers Off White & Red,Off White,mens-shoes,119.99,4.77,4.97,,DummyJSON
+92,Sports Sneakers Off White Red,Off White,mens-shoes,109.99,4.69,0.04,,DummyJSON
+93,Brown Leather Belt Watch,Fashion Timepieces,mens-watches,89.99,4.19,5.99,,DummyJSON
+94,Longines Master Collection,Longines,mens-watches,1499.99,3.87,17.24,,DummyJSON
+95,Rolex Cellini Date Black Dial,Rolex,mens-watches,8999.99,4.97,8.88,,DummyJSON
+96,Rolex Cellini Moonphase,Rolex,mens-watches,12999.99,2.58,17.52,,DummyJSON
+97,Rolex Datejust,Rolex,mens-watches,10999.99,3.66,3.73,,DummyJSON
+98,Rolex Submariner Watch,Rolex,mens-watches,13999.99,2.69,5.05,,DummyJSON
+99,Amazon Echo Plus,Amazon,mobile-accessories,99.99,4.99,12.07,,DummyJSON
+100,Apple Airpods,Apple,mobile-accessories,129.99,4.15,15.54,,DummyJSON
+101,Apple AirPods Max Silver,Apple,mobile-accessories,549.99,3.47,13.67,,DummyJSON
+102,Apple Airpower Wireless Charger,Apple,mobile-accessories,79.99,3.68,4.48,,DummyJSON
+103,Apple HomePod Mini Cosmic Grey,Apple,mobile-accessories,99.99,4.62,18.1,,DummyJSON
+104,Apple iPhone Charger,Apple,mobile-accessories,19.99,4.15,18.52,,DummyJSON
+105,Apple MagSafe Battery Pack,Apple,mobile-accessories,99.99,3.62,17.17,,DummyJSON
+106,Apple Watch Series 4 Gold,Apple,mobile-accessories,349.99,2.74,12.02,,DummyJSON
+107,Beats Flex Wireless Earphones,Beats,mobile-accessories,49.99,4.24,5.73,,DummyJSON
+108,iPhone 12 Silicone Case with MagSafe Plum,Apple,mobile-accessories,29.99,3.62,13.85,,DummyJSON
+109,Monopod,TechGear,mobile-accessories,19.99,4.43,8.58,,DummyJSON
+110,Selfie Lamp with iPhone,GadgetMaster,mobile-accessories,14.99,3.55,19.4,,DummyJSON
+111,Selfie Stick Monopod,SnapTech,mobile-accessories,12.99,3.88,19.12,,DummyJSON
+112,TV Studio Camera Pedestal,ProVision,mobile-accessories,499.99,2.78,8.31,,DummyJSON
+113,Generic Motorcycle,Generic Motors,motorcycle,3999.99,4.91,12.1,,DummyJSON
+114,Kawasaki Z800,Kawasaki,motorcycle,8999.99,3.98,9.77,,DummyJSON
+115,MotoGP CI.H1,MotoGP,motorcycle,14999.99,2.97,6.92,,DummyJSON
+116,Scooter Motorcycle,ScootMaster,motorcycle,2999.99,2.53,6.27,,DummyJSON
+117,Sportbike Motorcycle,SpeedMaster,motorcycle,7499.99,3.94,11.58,,DummyJSON
+118,Attitude Super Leaves Hand Soap,Attitude,skin-care,8.99,3.19,18.49,,DummyJSON
+119,Olay Ultra Moisture Shea Butter Body Wash,Olay,skin-care,12.99,4.51,16.39,,DummyJSON
+120,Vaseline Men Body and Face Lotion,Vaseline,skin-care,9.99,3.16,13.39,,DummyJSON
+121,iPhone 5s,Apple,smartphones,199.99,2.83,12.91,,DummyJSON
+122,iPhone 6,Apple,smartphones,299.99,3.41,6.69,,DummyJSON
+123,iPhone 13 Pro,Apple,smartphones,1099.99,4.12,9.37,,DummyJSON
+124,iPhone X,Apple,smartphones,899.99,2.51,19.59,,DummyJSON
+125,Oppo A57,Oppo,smartphones,249.99,3.94,2.43,,DummyJSON
+126,Oppo F19 Pro Plus,Oppo,smartphones,399.99,3.51,18.64,,DummyJSON
+127,Oppo K1,Oppo,smartphones,299.99,4.25,18.29,,DummyJSON
+128,Realme C35,Realme,smartphones,149.99,4.2,15.3,,DummyJSON
+129,Realme X,Realme,smartphones,299.99,3.7,6.95,,DummyJSON
+130,Realme XT,Realme,smartphones,349.99,4.58,11.51,,DummyJSON
+131,Samsung Galaxy S7,Samsung,smartphones,299.99,3.3,19.55,,DummyJSON
+132,Samsung Galaxy S8,Samsung,smartphones,499.99,4.4,19.45,,DummyJSON
+133,Samsung Galaxy S10,Samsung,smartphones,699.99,3.06,5.59,,DummyJSON
+134,Vivo S1,Vivo,smartphones,249.99,3.5,10.17,,DummyJSON
+135,Vivo V9,Vivo,smartphones,299.99,3.6,17.67,,DummyJSON
+136,Vivo X21,Vivo,smartphones,499.99,4.26,17.41,,DummyJSON
+137,American Football,,sports-accessories,19.99,4.91,4.93,,DummyJSON
+138,Baseball Ball,,sports-accessories,8.99,2.57,1.71,,DummyJSON
+139,Baseball Glove,,sports-accessories,24.99,3.96,2.9,,DummyJSON
+140,Basketball,,sports-accessories,14.99,4.66,7.44,,DummyJSON
+141,Basketball Rim,,sports-accessories,39.99,4.6,7.74,,DummyJSON
+142,Cricket Ball,,sports-accessories,12.99,3.53,8.63,,DummyJSON
+143,Cricket Bat,,sports-accessories,29.99,3.17,3.29,,DummyJSON
+144,Cricket Helmet,,sports-accessories,44.99,4.69,9.64,,DummyJSON
+145,Cricket Wicket,,sports-accessories,29.99,4.73,16.93,,DummyJSON
+146,Feather Shuttlecock,,sports-accessories,5.99,2.85,2.95,,DummyJSON
+147,Football,,sports-accessories,17.99,3.28,5.15,,DummyJSON
+148,Golf Ball,,sports-accessories,9.99,4.3,17.37,,DummyJSON
+149,Iron Golf,,sports-accessories,49.99,4.41,6.53,,DummyJSON
+150,Metal Baseball Bat,,sports-accessories,29.99,4.66,19.51,,DummyJSON
+151,Tennis Ball,,sports-accessories,6.99,4.06,11.76,,DummyJSON
+152,Tennis Racket,,sports-accessories,49.99,4.03,19.61,,DummyJSON
+153,Volleyball,,sports-accessories,11.99,3.84,12.25,,DummyJSON
+154,Black Sun Glasses,Fashion Shades,sunglasses,29.99,4.41,4.94,,DummyJSON
+155,Classic Sun Glasses,Fashion Shades,sunglasses,24.99,3.86,4.94,,DummyJSON
+156,Green and Black Glasses,Fashion Shades,sunglasses,34.99,4.55,1.01,,DummyJSON
+157,Party Glasses,Fashion Fun,sunglasses,19.99,2.79,11.22,,DummyJSON
+158,Sunglasses,Fashion Shades,sunglasses,22.99,3.02,1.51,,DummyJSON
+159,iPad Mini 2021 Starlight,Apple,tablets,499.99,3.18,3.64,,DummyJSON
+160,Samsung Galaxy Tab S8 Plus Grey,Samsung,tablets,599.99,4.68,13.31,,DummyJSON
+161,Samsung Galaxy Tab White,Samsung,tablets,349.99,3.72,18.2,,DummyJSON
+162,Blue Frock,,tops,29.99,4.17,12.13,,DummyJSON
+163,Girl Summer Dress,,tops,19.99,4.77,19.2,,DummyJSON
+164,Gray Dress,,tops,34.99,2.72,14.28,,DummyJSON
+165,Short Frock,,tops,24.99,3.23,13.45,,DummyJSON
+166,Tartan Dress,,tops,39.99,4.05,12.95,,DummyJSON
+167,300 Touring,Chrysler,vehicle,28999.99,4.05,3.98,,DummyJSON
+168,Charger SXT RWD,Dodge,vehicle,32999.99,2.58,8.23,,DummyJSON
+169,Dodge Hornet GT Plus,Dodge,vehicle,24999.99,2.65,2.63,,DummyJSON
+170,Durango SXT RWD,Dodge,vehicle,36999.99,4.07,16.44,,DummyJSON
+171,Pacifica Touring,Chrysler,vehicle,31999.99,3.62,14.76,,DummyJSON
+172,Blue Women's Handbag,Fashionista,womens-bags,49.99,2.92,17.88,,DummyJSON
+173,Heshe Women's Leather Bag,Heshe,womens-bags,129.99,4.92,3.87,,DummyJSON
+174,Prada Women Bag,Prada,womens-bags,599.99,2.71,14.09,,DummyJSON
+175,White Faux Leather Backpack,Urban Chic,womens-bags,39.99,3.36,15.2,,DummyJSON
+176,Women Handbag Black,Elegance Collection,womens-bags,59.99,2.89,11.63,,DummyJSON
+177,Black Women's Gown,,womens-dresses,129.99,3.64,10.48,,DummyJSON
+178,Corset Leather With Skirt,,womens-dresses,89.99,3.05,16.26,,DummyJSON
+179,Corset With Black Skirt,,womens-dresses,79.99,4.52,15.06,,DummyJSON
+180,Dress Pea,,womens-dresses,49.99,4.88,17.68,,DummyJSON
+181,Marni Red & Black Suit,,womens-dresses,179.99,4.48,19.02,,DummyJSON
+182,Green Crystal Earring,,womens-jewellery,29.99,3.96,15.24,,DummyJSON
+183,Green Oval Earring,,womens-jewellery,24.99,3.57,15.18,,DummyJSON
+184,Tropical Earring,,womens-jewellery,19.99,4.4,0.76,,DummyJSON
+185,Black & Brown Slipper,Comfort Trends,womens-shoes,19.99,2.53,3.33,,DummyJSON
+186,Calvin Klein Heel Shoes,Calvin Klein,womens-shoes,79.99,4.92,3.19,,DummyJSON
+187,Golden Shoes Woman,Fashion Diva,womens-shoes,49.99,3.26,13.93,,DummyJSON
+188,Pampi Shoes,Pampi,womens-shoes,29.99,3.05,14.14,,DummyJSON
+189,Red Shoes,Fashion Express,womens-shoes,34.99,3.25,17.69,,DummyJSON
+190,IWC Ingenieur Automatic Steel,IWC,womens-watches,4999.99,2.93,9.45,,DummyJSON
+191,Rolex Cellini Moonphase,Rolex,womens-watches,15999.99,3.83,4.11,,DummyJSON
+192,Rolex Datejust Women,Rolex,womens-watches,10999.99,2.86,15.94,,DummyJSON
+193,Watch Gold for Women,Fashion Gold,womens-watches,799.99,4.24,18.34,,DummyJSON
+194,Women's Wrist Watch,Fashion Co.,womens-watches,129.99,3.52,12.6,,DummyJSON
+3337875597197,Foaming Cleanser,CeraVe,"Beauty, Gezichtsreiniging, Reinigingsgel, Skincare",,,,"aqua, water, cocamidopropyl hydroxysultaine, glycerin, sodium lauroyl sarcosinate, propanediol, peg-150 pentaerythrityl tetrastearate, niacinamide, peg-6 caprylic, capric glycerides, ceramide np, ceramide ap, ceramide eop, carbomer, sodium methyl cocoyl taurate, sodium chloride, sodium benzoate, sodium lauroyl lactylate, sodium hydroxide, cholesterol, phenoxyethanol, disodium edta, citric acid, tetrasodium edta, phytosphingosine, xanthan gum, ethylhexylglycerin, tocopherol",Open Beauty Facts
+3337875597333,Cleanser,CeraVe,"Reinigingsmelk, Beauty, Gezichtsreiniging, Skincare",,,,"Aqua, Glycerin, Cetearyl Alcohol, PEG-40 Stearate, Stearyl Alcohol, Potassium Phosphate, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Glyceryl Stearate, Behentrimonium Methosulfate, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Dipotassium Phosphate, Tocopherol, Phytosphingosine, Xanthan Gum, Cetyl Alcohol, Polysorbate 20, Ethylhexylglycerin",Open Beauty Facts
+8809447251394,Dr. Althea 345 Relief Cream: Soothing and Barrier Repair Cream with power of Niacinamide and Panthenol,,"Beauty, Korean Beauty, Korean Skincare, Korean dagcreme",,,,,Open Beauty Facts
+3337875597227,CeraVe Hydraterende Crème,CeraVe,"Beauty, Dagcreme, Skincare",,,,,Open Beauty Facts
+3337875773430,Hydrating Foaming Oil Cleanser,CeraVe,"Beauty, Gezichtsreiniging, Reinigingsolie, Skincare",,,,"aqua/water, glycerin, peg-200 hydrogenated glyceryl palmate, coco-betaine, disodium cocoyl glutamate, peg-120 methyl glucose dioleate, polysorbate 20, peg-7 glyceryl cocoate, peg-150 pentaerythrityl tetrastearate, ppg-5-ceteth-20, peg-6 caprylic/capric glycerides, squalane, ceramide np, ceramide ap, ceramide eop, carbomer, triethyl citrate, sodium chloride, sodium hydroxide, sodium cocoyl glutamate, sodium lauroyl lactylate, sodium hyaluronate, cholesterol, citric acid, capryloyl glycine,  hydroxyacetophenone, caprylyl glycol, caprylic/capric triglyceride, trisodium ethylenediamine disuccinate, phytosphingosine, xanthan gum, benzoic acid, (code f,i,l, c273796/1)",Open Beauty Facts
+8809968130277,Beauty of Joseon Relief Sun Aqua-fresh Rice+B5,,"Beauty, Korean Beauty, Korean Skincare, Korean zonbescherming",,,,,Open Beauty Facts
+5099802150117,Lip therapy petroleum jelly pocket size,Vaseline,"Lippenbalsem, Beauty, Skincare",,,,petrolatum,Open Beauty Facts
+3337875597449,Facial Moisturising Lotion,CeraVe,"Beauty, Dagcreme, Skincare",,,,"ÁGUA, GLICEROL, TRIGLICERÍDEO CAPRÍLICO/CÁPRICO, NICOTINAMIDA, ÁLCOOL CETOESTEARÍLICO, FOSFATO DE POTÁSSIO MONOBÁSICO, CERAMIDA NP, CERAMIDA AP, CERAMIDA EOP, CARBÔMER, DIMETICONA, CETOMACROGOL 1000, METOSSULFATO DE BEENTRIMÔNIO, LAUROIL LACTILATO DE SÓDIO, HIALURONATO DE SÓDIO, COLESTEROL, FENOXIETANOL, EDETATO DISSÓDICO, FOSFATO DE POTÁSSIO DIBÁSICO, CAPRILILGLICOL, FITOESFINGOSINA, GOMA XANTANA, DI-ISOESTEARATO DE POLIGLICERILA-3, ETILEXILGLICERINA. (CODE F.I.L. D213445/2)",Open Beauty Facts
+3337875814652,CeraVe SPF50 Hydraterende Gezichtscrème,CeraVe,"Beauty, Dagcreme, Skincare",,,,"AQUA/WATER, GLYCERIN, ISOPROPYL PALMITATE, BIS-ETHYLHEXYLOXYPHENOL METHOXYPHENYL TRIAZINE, ETHYLHEXYL SALICYLATE, NIACINAMIDE, PENTYLENE GLYCOL, BUTYL METHOXYDIBENZOYLMETHANE, ETHYLHEXYL TRIAZONE, PROPANEDIOL, ZEA MAYS STARCH/CORN STARCH, POTASSIUM CETYL PHOSPHATE, DIISOPROPYL SEBACATE, ORYZA SATIVA CERA/RICE BRAN WAX, STEARIC ACID, CERAMIDE NP, CERAMIDE AP, CERAMIDE EOP, CARBOMER, GLYCERYL STEARATE, CETEARYL ALCOHOL, TRIETHANOLAMINE, BEHENTRIMONIUM METHOSULFATE, TRIETHYL CITRATE, SODIUM HYALURONATE, SODIUM POLYACRYLATE, SODIUM LAUROYL LACTYLATE, MYRISTIC ACID, CHOLESTEROL, PALMITIC ACID, TOCOPHEROL, CAPRYLYL GLYCOL, CITRIC ACID, TRISODIUM ETHYLENEDIAMINE DISUCCINATE, XANTHAN GUM, PHYTOSPHINGOSINE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, BUTYROSPERMUM PARKII BUTTER/SHEA BUTTER, BENZOIC ACID, PEG-100 STEARATE. (Code F.I.L. Y292332/1)",Open Beauty Facts
+42438731,Labello Original Lippenbalsem,Labello,"Lippenbalsem, Beauty, Skincare",,,,,Open Beauty Facts
+3600542546768,Garnier SkinActive Hyaluronzuur en Aloë Vera Hydraterende Dagcrème,Garnier,"Beauty, Dagcreme, Skincare",,,,,Open Beauty Facts
+4005900573285,nivea,NIVEA,"Beauty, Dagcreme, Skincare",,,,"Ingredients: Aqua, Glycerin, Ethylhexyl Salicylate, C12-15 Alkyl Benzoate, Methylpropanediol, Cetearyl Alcohol, Butyl Methoxydibenzoylmethane, Caprylic/ Capric Triglyceride, Glyceryl Stearate, Glyceryl Stearate Citrate, Hydroxypropyl Starch Phosphate, Butyrospermum Parkii Butter, Phenylbenzimidazole Sulfonic Acid, Argania Spinosa Kernel Oil, Sodium Hyaluronate, Xanthan Gum, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Trisodium EDTA, Ethylhexylglycerin, Caprylyl Glycol, Sodium Hydroxide, Phenoxyethanol, Parfum.",Open Beauty Facts
+8715342030258,WRINKLE SMOOTH SERUM,SKINCARE,,,,,,Open Beauty Facts
+3337875773447,CeraVe Hydraterende Schuimende Reinigingsolie,CeraVe,"Beauty, Gezichtsreiniging, Reinigingsolie, Skincare",,,,,Open Beauty Facts
+4015000923880,Diadermine Lift+ Hydratant Dagcrème,Diadermine,"Beauty, Dagcreme, Skincare",,,,Aqua Caprylic/Capric Triglyceride Hexanediol Glycerin Dicaprylyl Carbonate Arachidyl Alcohol Cocoglycerides Betaine Behenyl Alcohol Butyro spermum Parkii Butter Hydrolyzed Soy Protein Dimethylsilanol Hyaluronate Sodium Hyaluronate - Allantoin Bisabolol Panthenol Quassia Amara Extract Tocopheryl Acetate - Tocopherol Ethylhexyl Palmitate Arachidyl Glucoside Isododecane So dium Carbomer - Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer - Poly isobutene Ethylhexylglycerin Butylene Glycol Dimethicone Crosspolymer - Pentyl ene Glycol - Sorbitan Oleate Silica Dimethyl Silylate Caprylyl/Capryl Glucoside Hy drogenated Palm Glycerides Citrate Parfum Phenoxyethanol CI 77891 CI 16035 • •,Open Beauty Facts
+4005808221851,NIVEA Men sensitive after shave balsem,NIVEA,"Aftershave, Beauty, Skincare",,,,"Aqua, Glycerin, Isopropyl Palmitate, Chamomilla Recutita Flower Extract, Tocopheryl Acetate, Hamamelis Virginiana Bark/Leaf Extract, Maltodextrin, Tapioca Starch, Triceteareth-4 Phosphate, Sodium Carbomer, Caprylic/Capric Triglyceride, Phenoxyethanol, Piroctone Olamine, Parfum.",Open Beauty Facts
+4005900977953,NIVEA Derma Skin Clear Reinigingsgel,NIVEA,"Beauty, Gezichtsreiniging, Reinigingsgel, Skincare",,,,"Aqua, Sodium Cocoamphoacetate, Propylene Glycol, Sodium Laureth Sulfate, Sodium Chloride, Citric Acid, Salicylic Acid, Niacinamide, Sodium Benzoate",Open Beauty Facts
+3337875782357,Cerave gel control imperfecciones,CeraVe,"Beauty, Gezichtsreiniging, Skincare, Verzorging probleemhuid",,,,,Open Beauty Facts
+3600541943506,Garnier Skinactive hydra bomb granaatappel mask,Garnier,"Beauty, Gezichtsmaskers, Serummaskers, Skincare",,,,"967205 55 - INGREDIENTS:, AQUA / WATER, PROPYLENE GLYCOL, GLYCERIN, ALCOHOL, DIPOTASSIUM GLYCYRRHIZATE, GLYCERYL ACRYLATE/ACRYLIC ACID COPOLYMER, HAMAMELIS VIRGINIANA LEAF WATER/WITCH HAZEL LEAF WATER, HYDROGENATED STARCH HYDROLYSATE, HYDROXYACETOPHENONE, HYDROXYETHYLCELLULOSE, LIMONENE, MANNOSE, P-ANISIC ACID, PEG-40 HYDROGENATED CASTOR OIL, PHENOXYETHANOL, POTASSIUM HYDROXIDE, POTASSIUM SORBATE, PUNICA GRANATUM FRUIT EXTRACT, PVM/MA COPOLYMER, SODIUM BENZOATE, SODIUM HYALURONATE, SORBIC ACID, XANTHAN GUM, PARFUM / FRAGRANCE (F.I.L C260513/3)",Open Beauty Facts
+4005900682031,NIVEA Verzachtende Reinigingsmousse,,"Beauty, Gezichtsreiniging, Reinigingsmousse, Skincare",,,,,Open Beauty Facts
+8809657114960,Beauty of Joseon Glow Serum,Beauty,"Beauty, Gezichtsserum, Serum, Skincare",,,,,Open Beauty Facts
+4005900683397,NIVEA Verzachtende reinigingscreme amandelolie,NIVEA,"Beauty, Gezichtsreiniging, Reinigingscreme, Skincare",,,,,Open Beauty Facts
+3178041359511,Diadermine Expert Hyaluron Nachtcrème,Diadermine,"Beauty, Nachtcreme, Skincare",,,,"Chez Diadermine, Haus beuvrons depuis plus de tod ans aux côtés des femmes, L'expertise dermatologique et la naturalité sont au coeur de nos préoccupations. 98% D'INGREDIENTS D'ORIGINE NATURELLE ACTIFS BOTANIQUES • Beurre de Karité et Huile d'Amande : participent à rapport de soins nourrissants à la peau durant la nuit ACTIFS DERMATOLOGIQUES AH Micro-injecté : contribue à combler les rides de l'intérieur Peptides biomimétiques : aident à stimuler la production naturelle de collagène et d'acide hyaluronique",Open Beauty Facts
+4005900573209,NIVEA Hydraterende dagcrème spf15 normale huid,NIVEA,"Beauty, Dagcreme, Skincare",,,,,Open Beauty Facts
+3600542427531,Garnier SkinActive Vitamine C Serummasker,Garnier,"Beauty, Gezichtsmaskers, Sheet maskers, Skincare",,,,"VITAMIN-C-TUCHMASKE: INTENSIV FEUCHTIGKEITSSPENDEND & ERFRISCHEND Auf die Plätze, fertig. Glow! Verwöhne deine Haut mit unserer Tuchmaske, die die Haut mit einer Ladung Feuchtigkeit in nur 15 Minuten strahlen und sie Energie tanken ist. Formel mit Vitamin Cg und Hyaluronsäure für einen sofortigen Glow-Effekt. Für sensible Haut geeignet. BESTATIGTE WIRKSAMKEIT: Nach nur 15 Minuten: Die Haut ist intensiv mit Feuchtigkeit versorgt, aufgeweckter und geschmeidiger. Nach 1 Woche: Der Teint sieht ebenmäßiger aus, Anzeichen einer müden Haut erscheinen gemildert und die Haut ist revitalisiert. Kane Inhaltsstoffe tierischen Ursprungs. Vitamin-C: Vitamin-Cg, ein Vitamin-C-Derivat. Konsumententest mit 116 Frauen und 33 Männer - 3 Anwendungen während 1 Woche. FR MASQUE TISSU VITAMINE C SUPER HYDRATANT+ BOOSTER D'ÉCLAT C'est l'heure de redonner de l'éclat à votre peau! Ce masque tissu nouvelle génération, infusé avec l'équivalent d'une bouteille de sérum, illumine et repulpe votre peau comme une bombe d'hydratation en 15min seulement ! Il convient aussi aux peaux sensibles. EFFICACITE PROUVEE: Après seulement 15 minutes: la peau est intensément réhydratée, semble plus éclatante et plus lisse. Après 1 semaine: le teint est plus uniforme, les signes de fatigue sont réduits et la peau semble revitalisée. Aucun ingredient ou derive d'origine animale. Vitamine C: Vitamine Cg, dérivé de Vitamine C. Basée sur la contenance usuelle d'un soin 28mL Test consommateur: 116 femmes et 33 hommes-3 applications pendant 1 semaine. VITAMINE C TISSUE MASK: ULTRA HYDRATEREND + LAAT STRALEN Geef jouw huid een hydratatie boost in slecht 15 minuten! Dit gezichtsmasker is doordrenkt met een hoeveelheid van een vol flesje serum**, verrijkt met Vitamince Cg en hyaluronzuur, voor een stralend effect. Geschikt voor een gevoelige huid. BEWEZEN DOELTREFFENDHEID: Na 15 minuten: De huid is intens gehydrateerd, ziet er stralend uit en voelt soepeler. Na 1 week: teint ziet er meer egaal uit tekenen van vermoeidheid lijken minder zichtbaar en de huid lijkt gerevitaliseerd. Zonder ingredienten of bijproducten van dierlijke oorsprong. 2 Vitamine C: Vitamine CG, een afgeleide van Vitamine C. &quot;Gebaseerd op de hoeveelheid serum van 28ml. &quot;Zelfevaluatie - 116 vrouwen en 33 mannen - na 3 applicaties per week. DE ANWENDUNG? / FR COMMENT L'UTILISER? / NL HOE TE GEBRUIKEN? 1 2 3",Open Beauty Facts
+3178044041239,Diadermine Anti-Rimpel Dagcrème,,"Beauty, Dagcreme, Skincare",,,,,Open Beauty Facts
+5060144647795,Bulldog Déodorant naturel Original,"Bulldog, Bulldog skincare","Déodorants, en:open-beauty-facts",,,,"Aqua, Propanediol, Glycerin, Inulin, Polyglyceryl-3 caprylate, Sodium caproyl/lauroyl lactylate, Xanthan gum, Coco-caprylate/caprate, Parfum*, Triethyl citrate, Sodium benzoate, Sodium Stearoyl glutamate, Limonene, Potassium sorbate, Citric acid, Fructose, Linalool, Evernia prunastri extract, Citronellol, Geraniol.
+
+* mélange d'ingrédients naturels",Open Beauty Facts
+7509552455557,micellar water,Garnier skincare,,,,,,Open Beauty Facts
+3600541744424,Garnier SkinActive Micellair Reinigingswater Alles-in-1 400 ml,Garnier,"Beauty, Gezichtsreiniging, Micellair water, Skincare",,,,,Open Beauty Facts
+4005900572912,NIVEA Verzachtende Reinigingsmelk,,"Reinigingsmelk, Beauty, Gezichtsreiniging, Skincare",,,,,Open Beauty Facts
+4005900545503,NIVEA Q10 Power Anti-Rimpel Dagcrème,,"Beauty, Dagcreme, Skincare",,,,,Open Beauty Facts
+8809576260601,SKIN1004 Madagascar Centella Ampoule 55ml,,"Ampoules, Beauty, Skincare",,,,,Open Beauty Facts
+3600521719749,L'Oréal Triple active hyraterende dagcrème,L'Oréal,"Beauty, Dagcreme, Skincare",,,,"Aqua / Water, Helianthus Annuus Seed Oil / Sunflower Seed Oil, Glycerin, Isohexadecane, Dimethicone, Alcohol Denat., Sorbitan Stearate, Methyl Gluceth-20, Ethylhexyl Salicylate, Shorea Robusta Butter / Shorea Robusta Seed Butter, Stearyl Alcohol, Hydroxyethylpiperazine Ethane Sulfonic Acid, C13-14 Isoparaffin, Peg-100 Stearate, Rosa Canina Fruit Oil, Glyceryl Stearate, Ribes Nigrum Oil / Black Currant Seed Oil, 2-Oleamido-1, 3-Octadecanediol, Poloxamer 338, Disodium Edta, Sucrose Cocoate, Laureth-7, Xanthan Gum, Panthenol, Polyacrylamide, Tocopheryl Acetate, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Phenoxyethanol, Myrtrimonium Bromide, Linalool, Eugenol, Alpha-Isomethyl Ionone, Limonene, Hydroxycitronellal, Hydroxy - Isohexyl 3-Cyclohexene Carboxaldehyde, Citral, Citronellol, Benzyl Alcohol, Benzyl Benzoate, Benzyl Salicylate, Parfum / Fragrance. (F.I.L B166034/2)",Open Beauty Facts
+4005808224074,NIVEA Men sensitive gezichtscrème,NIVEA,"Beauty, Gezichtscreme mannen, Skincare",,,,,Open Beauty Facts
+8809738312728,Glow Deep Serum Rice + Arbutin,Beauty of Joseon,"Beauty, Gezichtsserum, Serum, Skincare",,,,,Open Beauty Facts
+8906087779292,Face moisturizer,The Derma Co.,Skincare,,,,"DM Water, Disodium EDTA, Vidacare FD 21 (Acrylates/C10-30 Alkyl Acrylate Crosspolymer), AMP-95 (2-AMINO-2-METHYL-1-PROPANOL), UCON Fluid 75 H 450 (PEG/PPG-17/6 Copolymer), Glycerin, Zigamoist PM II (Hydrolyzed Sclerotium Gum), Zigamoist HA (Sodium Hyaluronate), Ginomol ST (Cocoalkanes (and) Cococaprylate Caprate), Ginol EW 6820 (Cetearyl Alcohol (and) Ceteareth-20), Arlacel 165 (Glyceryl Stearate (and) PEG-100 Stearate), Belsil EG 2 (Cyclopentasiloxane and Dimethicone/ Vinyl Dimethicone Crosspolymer), Cyclopentasiloxane, Phenoxyethanol, Sodium Benzoate, Potassium Sorbate, DS HydroCeramide 50 (Ceramide 3, Caprylic/Capric Triglyceride, Ceteareth-20, Polyglycaeryl-10-Stearate Glycerin, 1,2-Hexanediol Water).",Open Beauty Facts
+3337875863841,la roche - Posay,,Skincare,,,,,Open Beauty Facts
+4005900789389,NIVEA Cellular Luminous630 Anti-Spot Corrigerend Serum,NIVEA,"Beauty, Gezichtsserum, Serum, Skincare",,,,,Open Beauty Facts
+4005808668649,NIVEA Verfrissende Reinigingsgel,Nivea,"Beauty, Gezichtsreiniging, Reinigingsgel, Skincare",,,,"Aqua, Cocamidopropyl Betaine, Sodium Myreth Sulfate, Sodium Acrylates Copolymer, Glycerin, Glyceryl Glucoside, Tocopheryl Acetate, Nelumbium Speciosum Flower Extract, Panthenol, Lauryl Glucoside, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, PEG-200 Hydrogenated Glyceryl Palmate, Polyquaternium-10, Benzophenone-4, Propylene Glycol, Phenoxyethanol, Methylparaben, Ethylparaben, Butylphenyl Methylpropional, Geraniol, Alpha-Isomethyl Ionone, Parfum, CI 42090, CI 16035",Open Beauty Facts
+4015000923989,Diadermine Lift+ Nourrissant Nachtcrème,Diadermine,"Beauty, Nachtcreme, Skincare",,,,Aqua - Hexanediol - Caprylic/Caprlc Triglyceride - Cetearyl Alcohol - Glycerin - Dicaprylyl Carbonate - Behenyl Alcohol - Betaine - Cocoglycerides - Glycelyl Stearate - Prunus  Amygdalus Dulcis Oil - Butyrospermum Parkii Butter - Cetearyl Glucoside - Hydrolyzed Yeast Prolein - Hydrolyzed Soy Protein - Dimethylsilanol Hyaluronate - Lecithin - Tocopherol - Aluminum Starch Octenylsuccinate - Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer - Squalane - Butylene Glycol - Pentylene Glycol - Dimethicone - Sodium Carbomer - Hydrogenated Palm Glycerides Citrate - Polysorbate 60 - Propylene Glycol - Parfum - Phenoxyethanol - Methylparaben - Ethylparaben - Cl 77891 - Cl 16035,Open Beauty Facts
+4005808930449,NIVEA Verzachtende dagcrème spf15,NIVEA,"Beauty, Dagcreme, Skincare",,,,,Open Beauty Facts
+8001841705477,"King C. Gillette 3-in-1 Baard-, Gezichts- en Haarreiniger",Gillette,"Baardverzorging, Beauty, Skincare",,,,,Open Beauty Facts
+3178041321785,Diadermine Expert Fondamental Nachtcrème,,"Beauty, Nachtcreme, Skincare",,,,"Aqua · Caprylic/Capric Triglyceride Glycerin Behenyl Alcohol Argania Spinosa Kernel Oil - Arachidyl Alcohol Hexanediol Coco-Caprylate/Caprate Carthamus Tinctorius Seed Oil - Glyceryl Stearate - Butyrospermum Parkii Butter Hydrogenated Coco-Glycerides Ethylhexyl Palmitate Tapioca Starch Quassia Amara Wood Extract Pyrus Malus Seed Extract Sodium Hyaluronate Brassica Campestris Sterols - Micrococcus Lysate Hydrolyzed Yeast Protein Allantoin Panthenol Tocopherol Echium Plantagineum Seed Oil Copernicia Cerifera Cera · Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate Lecithin Arachidyl Glucoside Cetearyl Alcohol - Hydroxyacetophenone 1,2-Hexanediol Carbomer-Sclerotium Gum-Caprylyl Glycol-Ethylhexylglycerin - Trihydroxystearin - Butylene Glycol - Xanthan Cum - Pentylene Glycol-Hydrogenated Palm Glycerides Citrate Sodium Hydroxide Polymethylsilsesquioxane Parfum - CI 77891 ETUI CARTON, POT VERRE À RECYCLER COUVERCLE PENSEZ AU TRI! PLASTIQUE À JETER incluant de l'eau CONSIGNE POUVANT VARIER LOCALEMENT &gt; WWW.CONSIGNESDETRI.FR O815X00281",Open Beauty Facts
+8809563103430,Mighty bamboo panthenol cream,Purito Seoul,"Beauty, Korean Beauty, Korean Skincare, Korean dagcreme",,,,"Water(Aqua), Panthenol (10%), Squalane Butylene Glycol, 1,2-Hexanediol, Niacinamide, Bambusa Vulgaris Extract(3,497 ppm), Hydrolyzed Jojoba Esters, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Ammonium Acryloyldimethyltaurate/VP Copolymer, Hydroxyaceto - phenone, Tromethamine, Dipotassium Glycyrrhizate, Ethylhexylglycerin, Xanthan Gum, Disodium EDTA, Sodium Hyaluronate, Madecassoside, Asiaticoside, Asiatic Acid, Madecassic Acid, Copper Tripeptide-1",Open Beauty Facts
+8715342031323,sea collagen protection sérum,skincare,"en:Non-food-products, en:Open-beauty-facts, Hygiène beauté",,,,"AQUA, PENTYLENE GLYCOL, COCO-CAPRYLATE, LECITHIN, SODIUM POLYACRYLATE, CAPRYLIC/CAPRIC TRIGLYCERIDE, HYDROLYZED COLLAGEN, PROPYLENE GLYCOL, PARFUM, CRAMBE MARITIMA EXTRACT, ETHYLHEXYLGLYCERIN, SODIUM HYALURONATE HIMANTHALIA ELONGATA EXTRACT, CRITHMUM MARITIMUM EXTRACT, GIGARTINA STELLATA EXTRACT, LAMINARIA SACCHARINA EXTRACT, PALMARIA PALMATA EXTRACT. 6M Made in FlI",Open Beauty Facts
